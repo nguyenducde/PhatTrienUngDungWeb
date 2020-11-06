@@ -1,0 +1,48 @@
+.clr {
+  clear: both;
+}
+
+.content {
+  margin: 20px auto;
+  width: 500px;
+  border: 1px solid #cfc;
+  padding: 10px;
+  min-height: 200px;
+}
+
+.content h1 {
+  text-align: center;
+  color: red;
+}
+
+.content .demoChangeMoney {
+  text-align: center;
+  line-height: 35px;
+}
+
+.content .demoChangeMoney img {
+  float: left;
+}
+
+.content input[type="text"] {
+  padding: 3px 5px;
+}
+
+.content input[type="submit"] {
+  padding: 3px 5px;
+}
+
+.content .result {
+  margin-top: 10px;
+}
+
+.content .totalPrice {
+  font-size: 20px;
+  margin-top: 10px;
+  text-align: right;
+}
+
+.content .totalPrice strong {
+  color: red;
+  font-weight: bold;
+}
